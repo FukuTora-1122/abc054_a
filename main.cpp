@@ -18,4 +18,5 @@ int main(){
     }else if(a < b){
         cout << "Bob" << endl;
     }
+    return 0;
 }
